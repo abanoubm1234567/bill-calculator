@@ -76,7 +76,8 @@ class App extends Component {
 
     return (
       <div className="main">
-        {/* Input for person's name */}
+
+        <h1>Split the Bill</h1>
 
         <input
           type="text"
