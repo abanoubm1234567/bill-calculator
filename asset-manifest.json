@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bill-calculator/static/css/main.f88a9b65.css",
-    "main.js": "/bill-calculator/static/js/main.e626f125.js",
+    "main.css": "/bill-calculator/static/css/main.5ba5a236.css",
+    "main.js": "/bill-calculator/static/js/main.fe8530c9.js",
     "static/js/453.e3197ecc.chunk.js": "/bill-calculator/static/js/453.e3197ecc.chunk.js",
     "index.html": "/bill-calculator/index.html",
-    "main.f88a9b65.css.map": "/bill-calculator/static/css/main.f88a9b65.css.map",
-    "main.e626f125.js.map": "/bill-calculator/static/js/main.e626f125.js.map",
+    "main.5ba5a236.css.map": "/bill-calculator/static/css/main.5ba5a236.css.map",
+    "main.fe8530c9.js.map": "/bill-calculator/static/js/main.fe8530c9.js.map",
     "453.e3197ecc.chunk.js.map": "/bill-calculator/static/js/453.e3197ecc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f88a9b65.css",
-    "static/js/main.e626f125.js"
+    "static/css/main.5ba5a236.css",
+    "static/js/main.fe8530c9.js"
   ]
 }
